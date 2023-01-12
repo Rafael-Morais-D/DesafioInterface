@@ -1,0 +1,15 @@
+D:\VS Projetos\DesafioInterface\bin\Debug\net6.0\DesafioInterface.exe
+D:\VS Projetos\DesafioInterface\bin\Debug\net6.0\DesafioInterface.deps.json
+D:\VS Projetos\DesafioInterface\bin\Debug\net6.0\DesafioInterface.runtimeconfig.json
+D:\VS Projetos\DesafioInterface\bin\Debug\net6.0\DesafioInterface.dll
+D:\VS Projetos\DesafioInterface\bin\Debug\net6.0\DesafioInterface.pdb
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.csproj.AssemblyReference.cache
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.AssemblyInfoInputs.cache
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.AssemblyInfo.cs
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.csproj.CoreCompileInputs.cache
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.dll
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\refint\DesafioInterface.dll
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.pdb
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\DesafioInterface.genruntimeconfig.cache
+D:\VS Projetos\DesafioInterface\obj\Debug\net6.0\ref\DesafioInterface.dll
